@@ -8,7 +8,7 @@
 Tests covered by Jest
 
 ## Run project
-```node index.js```
+```docker-compose up```
 
 ## Coverage report
 http://localhost:4000/

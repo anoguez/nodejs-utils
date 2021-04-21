@@ -1,5 +1,5 @@
 TN:
-SF:utils/ArrayUtils.js
+SF:src/utils/ArrayUtils.js
 FN:1,chunkArrayLoop
 FN:14,chunkArraySplice
 FN:23,chunkArraySlice
